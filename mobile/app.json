@@ -18,7 +18,12 @@
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.bethehero.betheheroapp",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.bethehero.betheheroapp",
+      "versionCode": 1
     }
   }
 }
